@@ -1,0 +1,5 @@
+le resaka oe raha tsy manao ajout izany le olona nefa nanao anle create avec assign amle creatEASSign
+
+le resaka user role tokony atao dynamique le  ao am controller
+
+le manao update dia afaka manampy utilisateur koa tokony jerena
